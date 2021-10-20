@@ -1,2 +1,2 @@
 # UrnaEletronica
-Aplicação java com jsp que simula uma votação 
+Aplicação maven java com jsp que simula uma votação 
